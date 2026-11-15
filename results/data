@@ -1,1 +1,7 @@
+# Prepared Dataset
 
+This folder contains the preprocessed SST-2 dataset splits:
+
+- train.csv: Training data
+- val.csv: Validation data
+- test.csv: Test data
